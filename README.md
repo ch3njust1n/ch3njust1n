@@ -32,8 +32,20 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/ubuntu/ubuntu.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&count_private=true)](https://github.com/ch3njust1n/github-readme-stats)
-![Justin's github stats](https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&show_icons=true&hide_border=true?count_private=true)
+<details>
+  <summary>📊 Top Languages</summary>
+
+  <img align="left" alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact?count_private=true" />
+
+</details>
+
+<details>
+  <summary>📈 Github Stats</summary>
+
+  <img align="left" alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&show_icons=true&hide_border=true?count_private=true" />
+
+</details>
+
 
 
 [website]: https://justinchen.io
