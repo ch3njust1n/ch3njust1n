@@ -25,10 +25,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/ubuntu/ubuntu.png"></code>
-<code><img height="20" src="https://en.wikipedia.org/wiki/Sublime_Text#/media/File:Sublime_Text_3_logo.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact)](https://github.com/ch3njust1n/github-readme-stats)
-![Justin's github stats](https://github-readme-stats.vercel.app/api?username=ch3njust1nshow_icons=true&hide_border=true)
+![Justin's github stats](https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <a href="https://www.linkedin.com/in/chenjus/">
   <img align="left" alt="Justin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
