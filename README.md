@@ -33,7 +33,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/ubuntu/ubuntu.png"></code>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact&count_private=true">
-  <img align="center" src="https://github.com/ch3njust1n/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact&count_private=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" />
