@@ -3,10 +3,12 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />][medium]
 
-## software engineer, entrepreneur and researcher
+<br />
+
+## software engineer, researcher and entrepreneur
 - I’m currently working on [Parkour Theory](http://parkourtheory.com)
 - I’m currently learning ML CI\CD
-- I’m looking to collaborate on machine learning for [Parkour Theory](https://github.com/parkourtheory)
+- I’m looking to collaborate on machine learning projects for [Parkour Theory](https://github.com/parkourtheory)
 - Fun fact: I collect comicbooks
 
 ---
