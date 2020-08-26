@@ -2,9 +2,8 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />][medium]
-[![Website](https://img.shields.io/website?label=justinchen.io&style=for-the-badge&url=https%3A%2F%2Fjustinchen.io)](https://justinchen.io)
 
-## I'm a swe, entrepreneur and researcher
+## software engineer, entrepreneur and researcher
 - I’m currently working on [Parkour Theory](http://parkourtheory.com)
 - I’m currently learning ML CI\CD
 - I’m looking to collaborate on machine learning for [Parkour Theory](https://github.com/parkourtheory)
