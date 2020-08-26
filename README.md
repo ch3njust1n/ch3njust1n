@@ -35,14 +35,14 @@
 <details>
   <summary>📊 Top Languages</summary>
 
-  <img align="left" alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact?count_private=true" />
+  <img align="left" alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact&count_private=true" />
 
 </details>
 
 <details>
   <summary>📈 Github Stats</summary>
 
-  <img align="left" alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&show_icons=true&hide_border=true?count_private=true" />
+  <img align="left" alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
