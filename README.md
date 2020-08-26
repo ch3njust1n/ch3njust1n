@@ -33,8 +33,8 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/digitalocean.svg"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact&count_private=true)](https://github.com/ch3njust1n/github-readme-stats)
-![Justin's github stats](https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact&count_private=true&title_color=000000)](https://github.com/ch3njust1n/github-readme-stats)
+![Justin's github stats](https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=000000&icon_color=000000)
 
 
 [website]: https://justinchen.io
