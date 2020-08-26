@@ -32,14 +32,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/ubuntu/ubuntu.png"></code>
 
-<a href="https://github.com/ch3njust1n/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact" />
-</a>
-<a href="https://camo.githubusercontent.com/d07dad1b194ef3a44b2ea8f4735c6767fd7ae564/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6368336e6a757374316e2673686f775f69636f6e733d747275652673686f775f69636f6e733d7472756526686964655f626f726465723d74727565">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&show_icons=true&hide_border=true" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact?count_private=true)](https://github.com/ch3njust1n/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact&count_private=true)](https://github.com/ch3njust1n/github-readme-stats)
 ![Justin's github stats](https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&show_icons=true&hide_border=true?count_private=true)
 
 
