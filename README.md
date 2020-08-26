@@ -1,8 +1,14 @@
-### Hi there, I'm [Justin](https://justinchen.io) 👋
-
 <!--
 **ch3njust1n/ch3njust1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+### Hi there, I'm [Justin][website] 👋
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />][medium]
+[![Website](https://img.shields.io/website?label=justinchen.io&style=for-the-badge&url=https%3A%2F%2Fjustinchen.io)](https://justinchen.io)
 
 ## I'm a swe, entrepreneur and researcher
 - 🔭 I’m currently working on [Parkour Theory](http://parkourtheory.com)
@@ -26,15 +32,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/ubuntu/ubuntu.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact)](https://github.com/ch3njust1n/github-readme-stats)
-![Justin's github stats](https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
-<a href="https://www.linkedin.com/in/chenjus/">
-  <img align="left" alt="Justin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.reddit.com/user/ch3njust1n">
-  <img align="left" alt="Justin's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://medium.com/@ch3njust1n">
-  <img align="left" alt="Justin's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3njust1n&layout=compact)](https://github.com/ch3njust1n/github-readme-stats)
+![Justin's github stats](https://github-readme-stats.vercel.app/api?username=ch3njust1n&show_icons=true&show_icons=true&hide_border=true)
+
+
+[website]: https://justinchen.io
+[linkedin]: https://www.linkedin.com/in/chenjus
+[reddit]: https://www.reddit.com/user/ch3njust1n
+[medium]: https://medium.com/@ch3njust1n
