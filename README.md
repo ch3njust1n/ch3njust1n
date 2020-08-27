@@ -20,6 +20,11 @@
 	</a>
 </code>
 <code>
+	<a href="https://pytorch.org/" target="_blank">
+		<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
+	</a>
+</code>
+<code>
 	<a href="https://www.djangoproject.com/" target="_blank">
 		<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg">
 	</a>
@@ -65,6 +70,16 @@
 	</a>
 </code>
 <code>
+	<a href="https://redis.io/" target="_blank">
+		<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg">
+	</a>
+</code>
+<code>
+	<a href="https://www.anaconda.com/" target="_blank">
+		<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg">
+	</a>
+</code>
+<code>
 	<a href="https://git-scm.com/" target="_blank">
 		<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg">
 	</a>
@@ -75,11 +90,6 @@
 	</a>
 </code>
 <code>
-	<a href="https://pytorch.org/" target="_blank">
-		<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
-	</a>
-</code>
-<code>
 	<a href="https://jupyter.org/" target="_blank">
 		<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />
 	</a>
@@ -87,6 +97,11 @@
 <code>
 	<a href="https://www.sublimetext.com/" target="_blank">
 		<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sublimetext.svg" />
+	</a>
+</code>
+<code>
+	<a href="https://www.apple.com/" target="_blank">
+		<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg">
 	</a>
 </code>
 <code>
