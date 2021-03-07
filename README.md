@@ -7,7 +7,6 @@
 <br />
 
 ## software engineer, researcher and entrepreneur
-- I'm a Data Engineer at Demyst Data
 - I’m currently working on [Parkour Theory](http://parkourtheory.com)
 - I’m looking to collaborate on machine learning projects for [Parkour Theory](https://github.com/parkourtheory)
 - Fun fact: I collect comicbooks
