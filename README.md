@@ -1,6 +1,5 @@
 [<img align="left" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />][medium]
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/stackoverflow.svg" />][stack]
 
