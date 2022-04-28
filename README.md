@@ -6,7 +6,7 @@
 <br />
 
 ## software engineer, researcher and entrepreneur
-- I’m currently competing in [Solana Riptide](https://solana.com/riptide).
+- I recently published [datweave](https://github.com/DAT-Cash/datweave) and am looking for contributors!
 - I’m looking to collaborate on machine learning projects for [Parkour Theory](https://github.com/parkourtheory)
 - Fun fact: I collect comic books
 
