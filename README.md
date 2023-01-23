@@ -14,13 +14,13 @@
 
 ### Languages and Tools:
 ![](image.png)
-<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg">
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg">
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg">
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg">
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg">
