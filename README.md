@@ -6,9 +6,7 @@
 <br />
 
 ## software engineer, researcher and entrepreneur
-- I'm looking for collaborators for [Papers Are All You Need](https://github.com/ch3njust1n/papers_are_all_you_need)
-- I’m looking to collaborate on machine learning projects for [Parkour Theory](https://github.com/parkourtheory)
-- Fun fact: I collect comic books
+- On my free time, I like reading research papers and comic books
 
 ---
 
