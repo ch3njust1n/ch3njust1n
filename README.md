@@ -5,8 +5,8 @@
 
 <br />
 
-## software engineer, researcher and entrepreneur
-- On my free time, I like reading research papers and comic books
+## senior software engineer
+- On my free time, I like reading research papers and comic books, and working on coding projects.
 
 ---
 
